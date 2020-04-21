@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/com/vinay/userregsoapwebservice/resource/impl/InvalidInputException.java=UTF-8
+encoding//src/com/vinay/userregsoapwebservice/resource/impl/User.java=UTF-8
+encoding//src/com/vinay/userregsoapwebservice/resource/impl/UserRegistrationResource.java=UTF-8
+encoding//src/com/vinay/userregsoapwebservice/resource/impl/UserRegistrationResourceService.java=UTF-8
+encoding//src/com/vinay/userregsoapwebservice/resource/impl/UserRegistrationResourceServiceLocator.java=UTF-8
+encoding//src/com/vinay/userregsoapwebservice/resource/impl/UserRegistrationResourceServiceSoapBindingStub.java=UTF-8
